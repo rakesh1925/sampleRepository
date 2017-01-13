@@ -1,0 +1,8 @@
+This is a new text file created by Sayali!
+In newbranch2
+Let us see whether this file is reflected after the commit, push and merge operation!
+
+
+2.
+I am making changes in this file
+And I am done!
