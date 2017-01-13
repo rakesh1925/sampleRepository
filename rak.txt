@@ -1,4 +1,11 @@
 This is file
 created for checking
 that how branch works
-on the git...[2~
+on the git...
+
+
+here after the 
+changes are made
+by the new
+branch that is
+rakesh branch...
